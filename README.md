@@ -57,3 +57,6 @@ I have Created The **Jammu And Kashmir Weather Forcast** Live Real-Time Forecast
   ° **Custom Adaptive Icon**: Adaptive Launcher Icon Featuring A Himalayan Peak, Sun, And Cloud Over A Royal Blue Background.
 
 
+## Application Coming Soon In Release 
+
+
