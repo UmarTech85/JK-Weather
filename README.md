@@ -5,11 +5,15 @@ I have Created The **Jammu And Kashmir Weather Forcast** Live Real-Time Forecast
 
 
 1. **Real-Time Live Meteorological Data.**
-  ° **Temperature**: Real-Time Current Temperature, Apparent Feels-Like Temperature, And Daily High/Low Extremes. Toggle Between °C and °F At Any Time.
+
+  ° **Temperature**: Real-Time Current Temperature, Apparent Feels-Like Temperature, And Daily High/Low Extremes. Toggle Between °C and °F At Any Time
+  
 
   °  **Humidity**: Accurate Relative Humidity Percentage With Comfort Ratings.
+  
 
   ° **Wind Speed & Direction**: Real-Time Wind Speed With 16-point Compass Directions (e.g., NNW, SSE). Toggle between **Km/h** And **mph**.
+  
 
   ° **Atmospheric & Solar**: Surface Atmospheric Pressure (hPa), UV Index Ratings (Low, Moderate, High), And Precipitation Measurements.
 
