@@ -19,13 +19,16 @@ I have Created The **Jammu And Kashmir Weather Forcast** Live Real-Time Forecast
 
 
 2. **Extensive Coverage of Jammu & Kashmir Cities & Valleys**
+
   ° **Kashmir Valley**: Srinagar, Gulmarg, Pahalgam, Sonamarg, Anantnag, Baramulla, Kupwara, Gurez Valley (Dawar), Pulwama, Budgam, Bandipora, Shopian, And Kulgam.
+  
 
   ° **Jammu Region**: Jammu City, Katra (Shri Mata Vaishno Devi), Patnitop, Bhaderwah, Udhampur, Rajouri, Poonch, Doda, Kishtwar, Ramban, Kathua, Reasi, And Samba
 
 
 3. **Hourly & 7-Day Extended Forecasts**
   ° **24-Hour Hourly Carousel**: Hourly progression Of Temperature, Humidity %, Weather Condition Icons, And Wind Speeds.
+
 
   ° **7-Day Daily Forecast**: Daily fForecast With High/Low Temperature Bars, Precipitation Probability, And Maximum Wind Velocity.
 
