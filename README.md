@@ -27,6 +27,8 @@ I have Created The **Jammu And Kashmir Weather Forcast** Live Real-Time Forecast
 
 
 3. **Hourly & 7-Day Extended Forecasts**
+
+
   ° **24-Hour Hourly Carousel**: Hourly progression Of Temperature, Humidity %, Weather Condition Icons, And Wind Speeds.
 
 
@@ -34,15 +36,23 @@ I have Created The **Jammu And Kashmir Weather Forcast** Live Real-Time Forecast
 
 
 4. **Mountain Highways & Pass Travel Advisories**
+
+
   ° Live weather status monitor for critical transit routes: **NH-44 Jammu–Srinagar Corridor** (Banihal Tunnel / Ramban), **Zojila Pass** (Sonamarg–Ladakh), and **Mughal Road** (Peer Ki Gali).
+  
 
   ° High-Altitude Travel Tips (e.g., Snow Gear, Tire Chains, Fog Lights).
+  
 
 
 5. **Interface, Styling & Visual Polish**
+
+
   ° **Scenic Dal Lake & Himalayan Banner**: Custom Header Artwork Capturing Traditional Shikaras And Mountain Peaks.
+  
 
   ° **Division Filter Chips & Search**: Filter By All J&K, Kashmir Valley, Jammu Region, Hill Stations, Or Pinned Favorites, Plus Instant Search By City Or District Name.
+  
 
   ° **Custom Adaptive Icon**: Adaptive Launcher Icon Featuring A Himalayan Peak, Sun, And Cloud Over A Royal Blue Background.
 
